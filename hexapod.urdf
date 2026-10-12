@@ -444,7 +444,7 @@
         <parent link="leg_1_tibia_motor" />
         <child link="leg_1_tibia_bracket_A" />
         <axis xyz="0.707107 -0.707107 -1.0126468723405215e-29" />
-        <limit lower="-2.181662" upper="-0.0" effort="1000000" velocity="1000000" />
+        <limit lower="-1.570796" upper="1.570796" effort="1000000" velocity="1000000" />
     </joint>
     <joint name="leg_1_tibia_bracket_A_leg_1_tibia_bracket_tibia" type="fixed">
         <origin xyz="-0.004666899999999998 -0.043416360000000015 0.005000000000000001" rpy="-9.860761315262648e-31 4.894350220025294e-30 -1.9721522630525295e-31" />
@@ -729,7 +729,7 @@
         <parent link="leg_2_tibia_motor" />
         <child link="leg_2_tibia_bracket_A" />
         <axis xyz="0.0 -1.0 -1.9721522630525295e-31" />
-        <limit lower="-2.181662" upper="-0.0" effort="1000000" velocity="1000000" />
+        <limit lower="-1.570796" upper="1.570796" effort="1000000" velocity="1000000" />
     </joint>
     <joint name="leg_2_tibia_bracket_A_leg_2_tibia_bracket_tibia" type="fixed">
         <origin xyz="-0.03399999999999999 -0.027400000000000004 0.005000000000000001" rpy="9.860761315262648e-32 -4.8284727900975155e-31 -9.522483540078376e-62" />
@@ -1014,7 +1014,7 @@
         <parent link="leg_3_tibia_motor" />
         <child link="leg_3_tibia_bracket_A" />
         <axis xyz="-0.707107 -0.707107 1.0126468723405223e-29" />
-        <limit lower="-2.181662" upper="-0.0" effort="1000000" velocity="1000000" />
+        <limit lower="-1.570796" upper="1.570796" effort="1000000" velocity="1000000" />
     </joint>
     <joint name="leg_3_tibia_bracket_A_leg_3_tibia_bracket_tibia" type="fixed">
         <origin xyz="-0.04341635999999998 0.004666899999999998 0.005000000000000001" rpy="-3.9443045261050586e-31 4.8943502200252996e-30 -1.9721522630525295e-31" />
@@ -1299,7 +1299,7 @@
         <parent link="leg_4_tibia_motor" />
         <child link="leg_4_tibia_bracket_A" />
         <axis xyz="-0.707107 0.707107 1.0126468723405218e-29" />
-        <limit lower="-2.181662" upper="-0.0" effort="1000000" velocity="1000000" />
+        <limit lower="-1.570796" upper="1.570796" effort="1000000" velocity="1000000" />
     </joint>
     <joint name="leg_4_tibia_bracket_A_leg_4_tibia_bracket_tibia" type="fixed">
         <origin xyz="0.004666899999999998 0.043416360000000015 0.005000000000000001" rpy="-1.9721522630525295e-31 4.894350220025299e-30 0.0" />
@@ -1584,7 +1584,7 @@
         <parent link="leg_5_tibia_motor" />
         <child link="leg_5_tibia_bracket_A" />
         <axis xyz="1.9721522630525295e-31 1.0 -3.944304526105059e-31" />
-        <limit lower="-2.181662" upper="-0.0" effort="1000000" velocity="1000000" />
+        <limit lower="-1.570796" upper="1.570796" effort="1000000" velocity="1000000" />
     </joint>
     <joint name="leg_5_tibia_bracket_A_leg_5_tibia_bracket_tibia" type="fixed">
         <origin xyz="0.03399999999999999 0.027399999999999997 0.005000000000000001" rpy="-1.9721522630525295e-31 -8.533424418233808e-32 -5.9164567891575885e-31" />
@@ -1869,7 +1869,7 @@
         <parent link="leg_6_tibia_motor" />
         <child link="leg_6_tibia_bracket_A" />
         <axis xyz="0.707107 0.707107 -1.0126468723405222e-29" />
-        <limit lower="-2.181662" upper="-0.0" effort="1000000" velocity="1000000" />
+        <limit lower="-1.570796" upper="1.570796" effort="1000000" velocity="1000000" />
     </joint>
     <joint name="leg_6_tibia_bracket_A_leg_6_tibia_bracket_tibia" type="fixed">
         <origin xyz="0.043416360000000015 -0.004666899999999998 0.005000000000000001" rpy="-1.972152263052529e-31 4.8943502200252996e-30 -3.944304526105059e-31" />
