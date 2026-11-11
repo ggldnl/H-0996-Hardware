@@ -122,7 +122,7 @@ Each step below includes a short video.
 1. All the legs use the same basic components (`CAD/stl/parts`): `femur.stl`, `tibia.stl`, 3 x `bracket_A.stl` and 3 x `bracket_B.stl`.
 2. You will need 12 x `servo_mod.stl`, one for each servo. The mod is fully reversible. 
 3. Files in the `CAD/stl/hardware` folder (`MG996.stl`, `battery.stl`, `electronics.stl`, ...) are used in the URDF for simulation, you don't need to print them. Refer to the [assembly instructions](#-assembly-instructions).
-4. If you don't want to use the custom PCB, you will need to print the `CAD/stl/parts/electronics_mount.stl` and buy some more components (M2 heat set inserts and screws). Refer to [this section ](#without-custom-pcb).
+4. If you don't want to use the custom PCB, you will need to print the `CAD/stl/parts/electronics_mount.stl` and buy some more components (M2 heat set inserts and screws). Refer to [this section](#-bill-of-materials).
 5. You can edit the printed parts to your likings. STEP files are in the `CAD/step/parts` folder.
 
 ## 🤝 Contribution
