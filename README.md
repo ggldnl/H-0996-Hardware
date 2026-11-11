@@ -82,19 +82,19 @@ Each step below includes a short video.
 
 2. Add heat set inserts to the 3D-printed parts. In some places I modeled 4 holes for the heat set inserts (servo hubs and brackets), but then only used 2. I didn't encounter any problems.
 
-    <video src="https://github.com/user-attachments/assets/342bcc59-8d65-4aa1-9488-e9e4fd77accb"></video>
+    <a href="media/videos/heat_set_inserts.mp4"><img src="media/videos/heat_set_inserts.gif" alt="Adding the heat set inserts"></a>
 
 3. Now the legs. You will have to build 6 of them.
 
-    <video src="https://github.com/user-attachments/assets/05f1056e-435a-43d8-accc-99606f1da784"></video>
+    <a href="media/videos/leg_assembly.mp4"><img src="media/videos/leg_assembly.gif" alt="Assembling a leg"></a>
 
 4. Connect all the legs to the base.
 
-    <video src="https://github.com/user-attachments/assets/e5f85936-af69-40fa-94dd-71543b65fb09"></video>
+    <a href="media/videos/legs_to_base.mp4"><img src="media/videos/legs_to_base.gif" alt="Connecting the legs to the base"></a>
 
 5. Add the electronics. Top and bottom stiffeners are NOT optional: they prevent the base from flexing. Ensure they actually touch the servos. Higher infill could also help.
 
-    <video src="https://github.com/user-attachments/assets/8699bbb7-0d47-4d19-a4cc-e40c626c33b0"></video>
+    <a href="media/videos/electronics_to_base.mp4"><img src="media/videos/electronics_to_base.gif" alt="Adding the electronics"></a>
 
     <table>
         <tr>
