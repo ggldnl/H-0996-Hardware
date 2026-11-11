@@ -1,4 +1,4 @@
-# Hexapod Hardware
+# H-0996 Hardware
 
 <div align="center">
     <img src="media/images/preview.jpg" alt="Preview">
@@ -6,7 +6,7 @@
 
 This repository contains the 3D-printed parts, BOM and assembly guide to replicate my hexapod robot. 
 
-For a complete overview of the project, refer to the [main Hexapod repository](https://github.com/ggldnl/Hexapod). Additionally, you may want to check out the repositories containing the [Controller](https://github.com/ggldnl/Hexapod-Controller) and [Servo2040 firmware](https://github.com/ggldnl/Hexapod-Firmware).
+For a complete overview of the project, refer to the [main H-0996 repository](https://github.com/ggldnl/Hexapod). Additionally, you may want to check out the repositories containing the [Controller](https://github.com/ggldnl/Hexapod-Controller) and [Servo2040 firmware](https://github.com/ggldnl/Hexapod-Firmware).
 
 ## 🖼️ Render
 
@@ -42,7 +42,7 @@ All above components are mandatory. There are two supported assembly paths, depe
 
 1. With custom PCB
 
-    Using the custom PCB slightly increases cost (about 60-70€ more) but simplifies the build, keeps the body slim, acts as a rigid base plate and saves you from having to deal with manual wiring. Refer to the [Hexapod PCB repository](https://github.com/ggldnl/Hexapod-PCB) for more information.
+    Using the custom PCB slightly increases cost (about 60-70€ more) but simplifies the build, keeps the body slim, acts as a rigid base plate and saves you from having to deal with manual wiring. Refer to the [H-0996 PCB repository](https://github.com/ggldnl/Hexapod-PCB) for more information.
 
     The PCB is totally optional and you can skip it if you want to save a few bucks, but I highly recommend it.
 
@@ -127,4 +127,4 @@ Each step below includes a short video.
 
 ## 🤝 Contribution
 
-Feel free to raise issues or contribute improvements to this repository. For further information about the project, check out the [main Hexapod repository](https://github.com/ggldnl/Hexapod). Give a ⭐️ to this project if you liked the content.
+Feel free to raise issues or contribute improvements to this repository. For further information about the project, check out the [main H-0996 repository](https://github.com/ggldnl/Hexapod). Give a ⭐️ to this project if you liked the content.
